@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sagernet/sing-box/adapter"
-	"github.com/sagernet/sing-box/common/urltest"
-	"github.com/sagernet/sing-box/protocol/group"
+	"github.com/yafromil88/sing-box/adapter"
+	"github.com/yafromil88/sing-box/common/urltest"
+	"github.com/yafromil88/sing-box/protocol/group"
 	"github.com/sagernet/sing/common"
 	"github.com/sagernet/sing/common/batch"
 	"github.com/sagernet/sing/common/json/badjson"

@@ -7,8 +7,8 @@ import (
 	"io"
 	"net/netip"
 
-	C "github.com/sagernet/sing-box/constant"
-	"github.com/sagernet/sing-box/option"
+	C "github.com/yafromil88/sing-box/constant"
+	"github.com/yafromil88/sing-box/option"
 	"github.com/sagernet/sing/common"
 	"github.com/sagernet/sing/common/domain"
 	E "github.com/sagernet/sing/common/exceptions"

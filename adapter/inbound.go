@@ -5,10 +5,10 @@ import (
 	"net/netip"
 	"time"
 
-	"github.com/sagernet/sing-box/common/process"
-	C "github.com/sagernet/sing-box/constant"
-	"github.com/sagernet/sing-box/log"
-	"github.com/sagernet/sing-box/option"
+	"github.com/yafromil88/sing-box/common/process"
+	C "github.com/yafromil88/sing-box/constant"
+	"github.com/yafromil88/sing-box/log"
+	"github.com/yafromil88/sing-box/option"
 	M "github.com/sagernet/sing/common/metadata"
 )
 

@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/sagernet/sing-box/adapter"
+	"github.com/yafromil88/sing-box/adapter"
 )
 
 var _ RuleItem = (*ProcessItem)(nil)

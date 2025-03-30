@@ -5,10 +5,10 @@ package include
 import (
 	"context"
 
-	"github.com/sagernet/sing-box/adapter"
-	"github.com/sagernet/sing-box/experimental"
-	"github.com/sagernet/sing-box/log"
-	"github.com/sagernet/sing-box/option"
+	"github.com/yafromil88/sing-box/adapter"
+	"github.com/yafromil88/sing-box/experimental"
+	"github.com/yafromil88/sing-box/log"
+	"github.com/yafromil88/sing-box/option"
 	E "github.com/sagernet/sing/common/exceptions"
 )
 

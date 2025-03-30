@@ -3,8 +3,8 @@
 package include
 
 import (
-	"github.com/sagernet/sing-box/dns"
-	"github.com/sagernet/sing-box/dns/transport/dhcp"
+	"github.com/yafromil88/sing-box/dns"
+	"github.com/yafromil88/sing-box/dns/transport/dhcp"
 )
 
 func registerDHCPTransport(registry *dns.TransportRegistry) {

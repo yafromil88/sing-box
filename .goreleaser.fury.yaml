@@ -6,7 +6,7 @@ builds:
       - -v
       - -trimpath
     ldflags:
-      - -X github.com/sagernet/sing-box/constant.Version={{ .Version }}
+      - -X github.com/yafromil88/sing-box/constant.Version={{ .Version }}
       - -s
       - -buildid=
     tags:

@@ -3,8 +3,8 @@ package adapter
 import (
 	"context"
 
-	"github.com/sagernet/sing-box/log"
-	"github.com/sagernet/sing-box/option"
+	"github.com/yafromil88/sing-box/log"
+	"github.com/yafromil88/sing-box/option"
 	N "github.com/sagernet/sing/common/network"
 )
 

@@ -90,7 +90,7 @@ jobs:
           set -xeuo pipefail
           mkdir -p dist
           go build -v -trimpath -o dist/sing-box -tags "${BUILD_TAGS}" \
-          -ldflags '-s -buildid= -X github.com/sagernet/sing-box/constant.Version=${{ needs.calculate_version.outputs.version }}' \
+          -ldflags '-s -buildid= -X github.com/yafromil88/sing-box/constant.Version=${{ needs.calculate_version.outputs.version }}' \
           ./cmd/sing-box
         env:
           CGO_ENABLED: "0"

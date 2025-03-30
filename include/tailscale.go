@@ -3,9 +3,9 @@
 package include
 
 import (
-	"github.com/sagernet/sing-box/adapter/endpoint"
-	"github.com/sagernet/sing-box/dns"
-	"github.com/sagernet/sing-box/protocol/tailscale"
+	"github.com/yafromil88/sing-box/adapter/endpoint"
+	"github.com/yafromil88/sing-box/dns"
+	"github.com/yafromil88/sing-box/protocol/tailscale"
 )
 
 func registerTailscaleEndpoint(registry *endpoint.Registry) {

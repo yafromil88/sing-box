@@ -5,12 +5,12 @@ import (
 	"errors"
 	"net"
 
-	"github.com/sagernet/sing-box/adapter"
-	C "github.com/sagernet/sing-box/constant"
-	"github.com/sagernet/sing-box/dns"
-	"github.com/sagernet/sing-box/experimental/libbox/platform"
-	"github.com/sagernet/sing-box/log"
-	"github.com/sagernet/sing-box/option"
+	"github.com/yafromil88/sing-box/adapter"
+	C "github.com/yafromil88/sing-box/constant"
+	"github.com/yafromil88/sing-box/dns"
+	"github.com/yafromil88/sing-box/experimental/libbox/platform"
+	"github.com/yafromil88/sing-box/log"
+	"github.com/yafromil88/sing-box/option"
 	E "github.com/sagernet/sing/common/exceptions"
 	"github.com/sagernet/sing/service"
 

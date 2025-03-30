@@ -3,7 +3,7 @@ package rule
 import (
 	"strings"
 
-	"github.com/sagernet/sing-box/adapter"
+	"github.com/yafromil88/sing-box/adapter"
 )
 
 var _ RuleItem = (*PackageNameItem)(nil)
